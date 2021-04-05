@@ -8,5 +8,5 @@
 
 # LOGOLARIM
 
-<img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" width="100%"/>
-<img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" width="50%"/>
+<img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" width="50%"/>
