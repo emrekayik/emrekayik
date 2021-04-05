@@ -8,5 +8,7 @@
 
 # LOGOLARIM
 
+<div>
 <img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" width="25%"/>
 <img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/logo1.svg" width="25%"/>
+</div>
