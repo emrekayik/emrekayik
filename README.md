@@ -1,7 +1,7 @@
 
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="100%"/>
 
-###
+`
 ------------------------------------------------
 o               .        ___---___                    .
        .              .--\        --.     .     .         .
@@ -19,6 +19,7 @@ o               .        ___---___                    .
   .                   ~--___ ; ___--~
                  .          ---         .              -JT
 ------------------------------------------------
+
 
 # GitHub İstatistiklerim
 
