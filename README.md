@@ -1,14 +1,14 @@
 
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="100%"/>
 
-$$$$$$$$\ $$\   $$\ <br/>
-$$  _____|$$ | $$  |<br/>
-$$ |      $$ |$$  / <br/>
-$$$$$\    $$$$$  /  <br/>
-$$  __|   $$  $$<   <br/>
-$$ |      $$ |\$$\  <br/>
-$$$$$$$$\ $$ | \$$\ <br/>
-\________|\__|  \__|<br/>             
+$$$$$$$$\ $$\   $$\ 
+$$  _____|$$ | $$  |
+$$ |      $$ |$$  / 
+$$$$$\    $$$$$  /  
+$$  __|   $$  $$<   
+$$ |      $$ |\$$\  
+$$$$$$$$\ $$ | \$$\ 
+\________|\__|  \__|         
 
 
 
