@@ -72,12 +72,12 @@ $$$$$$$$\ $$ | \$$\
 </p>
 
 
-# GitHub İstatistiklerim
+# My GitHub Statistics
 
 ![Github istatistiklerim](https://github-readme-stats.vercel.app/api?username=emrekayik&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekayik)
 
-# LOGOLARIM
+# My Logos
 
 <div>
 <img src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" data-canonical-src="https://raw.githubusercontent.com/emrekayik/svg_files/main/ANA-LOGO.svg" width="45%"/>
