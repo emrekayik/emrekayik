@@ -1,6 +1,6 @@
 <h1 align="center">Hi There, I'm Emre</h1>
 
-<pre style="text-align:center;font-size: 20px;">
+<pre align="center">
   On the shoulders of giants
 </pre>
 
