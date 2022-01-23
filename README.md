@@ -4,7 +4,6 @@
   On the shoulders of giants
 </pre>
 
-<div style="display:flex;">
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="60%"/>
 
 <pre>
@@ -17,7 +16,6 @@ $$ |      $$ |\$$\
 $$$$$$$$\ $$ | \$$\ 
 \________|\__|  \__|         
 </pre>
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
