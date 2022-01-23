@@ -1,5 +1,11 @@
 <h1 align="center">Hi There, I'm Emre</h1>
 
+<details align="center">
+<summary>About Me</summary>
+I'm Emre Kayık and 19, I live in Turkey.
+
+</details>
+
 <pre align="center">
   On the shoulders of giants
 </pre>
@@ -68,7 +74,6 @@ $$$$$$$$\ $$ | \$$\
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zig/zig-original.svg" alt="" width="40" height="40" />
   </a>
 </p>
-
 
 # My GitHub Statistics
 
