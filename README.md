@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi There, I'm Emre</h1>
+<h1 align="center">Hi There, I'm Emre</h1>
 
 <pre style="text-align:center;font-size: 20px;">
   On the shoulders of giants
