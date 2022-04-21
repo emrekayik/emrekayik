@@ -37,6 +37,9 @@ $$$$$$$$\ $$ | \$$\
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" />
   </a>
+  <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40">
+  </a>
   <a href="https://svelte.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte"  width="40" height="40"/>
   </a>
@@ -46,8 +49,8 @@ $$$$$$$$\ $$ | \$$\
   <a href="https://deno.land/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" alt="denojs" width="40" height="40" />
   </a>
-  <a href="https://www.electronjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="denojs" width="40" height="40" />
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
