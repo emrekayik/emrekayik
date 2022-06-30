@@ -1,6 +1,9 @@
 <h1 align="center">Hi There, I'm Emre</h1>
 <details align="center">
-  <summary>About Me</summary> I'm Emre Kayık and 19, I live in Turkey.
+  <summary>About Me</summary> I'm Emre Kayık and 19, I live in Turkey.</summary>
+  <summary><a href="https://linkedin.com/in/emrekayik">LinkedIn</a></summary>
+  <summary><a href="https://instagram.com/emrekayik0">Instagram</a></summary>
+  <summary><a href="https://twitter.com/emrekayik0">Twitter</a></summary>
 </details>
 <pre align="center">
   On the shoulders of giants
