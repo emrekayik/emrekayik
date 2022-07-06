@@ -4,6 +4,9 @@
   <summary><a href="https://linkedin.com/in/emrekayik">LinkedIn</a></summary>
   <summary><a href="https://instagram.com/emrekayik0">Instagram</a></summary>
   <summary><a href="https://twitter.com/emrekayik0">Twitter</a></summary>
+  <summary><a href="https://www.behance.net/emrekayik">behance</a></summary>
+  <summary><a href="https://dribbble.com/emrekayik">Dribbble</a></summary>
+  <summary><a href="https://www.kaggle.com/emrekayik">Kaggle</a></summary>
 </details>
 <pre align="center">
   On the shoulders of giants
