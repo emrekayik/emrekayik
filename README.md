@@ -108,4 +108,6 @@
 </div>
 
 ### Spotify
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2ns7wr2k76nue3vtqi7ptpj5u&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
+<a href="https://open.spotify.com/user/2ns7wr2k76nue3vtqi7ptpj5u">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=2ns7wr2k76nue3vtqi7ptpj5u&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</a>
