@@ -1,7 +1,10 @@
 <h1 align="center">Hi There, I'm Emre</h1>
 <details align="center">
-  <summary>About Me</summary>
-  <summary> I'm Emre Kayık and 19, I live in Turkey. </summary>
+  <summary>About Me - Contact Me</summary>
+    I'm Emre Kayık and 19, I live in Turkey.
+    <br>
+    <br>
+    <br>
     <a href="https://instagram.com/emrekayik0" target="_blank">
       <img src=https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
