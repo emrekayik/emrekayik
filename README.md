@@ -2,7 +2,6 @@
 <details align="center">
   <summary>About Me</summary>
   <summary> I'm Emre Kayık and 19, I live in Turkey. </summary>
-  <summary>
     <a href="https://instagram.com/emrekayik0" target="_blank">
       <img src=https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>
@@ -33,7 +32,6 @@
     <a href="https://medium.com/emrekayik" target="_blank">
       <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
     </a>
-  </summary>
 </details>
 <pre align="center">
   On the shoulders of giants
