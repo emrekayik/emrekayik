@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
     <br>
     <br>
-    <h2>Tools:</h2>
+    <h2><img src="https://img.shields.io/badge/my%20favorite%20%F0%9F%96%A4-tools-blue" /></h2>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
     <img src="https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=Atom&logoColor=white" />
     <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" />
