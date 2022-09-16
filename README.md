@@ -41,7 +41,7 @@
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="60%" />
 
 <div>
-    <h2>Langs:</h2>
+    <h2>My favorite technologies:<img src="https://img.shields.io/badge/my%20favorite-technologies-brightgreen"/></h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
      <br>
