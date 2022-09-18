@@ -31,7 +31,7 @@
     <a href="https://www.behance.net/emrekayik" target="_blank">
       <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
     </a>
-    <a href="https://medium.com/emrekayik" target="_blank">
+    <a href="https://medium.com/@emrekayik" target="_blank">
       <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
     </a>
 </details>
