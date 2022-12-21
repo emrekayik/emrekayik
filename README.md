@@ -1,7 +1,7 @@
 <h1 align="center">Hi There, I'm Emre</h1>
 <details align="center">
   <summary>About Me - Contact Me</summary>
-    I'm Emre Kayık and 19, I live in Turkey.
+    I'm Emre and 20, I am an designer and developer.
     <br>
     <br>
     <a href="https://instagram.com/emrekayik0" target="_blank">
