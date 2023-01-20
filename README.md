@@ -36,7 +36,7 @@
     </a>
   <br>
   <a href="https://www.buymeacoffee.com/emrekayik" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 24px !important;width: 86.8px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 173px !important;" >
   </a>
 </details>
 <pre align="center">
