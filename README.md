@@ -34,6 +34,8 @@
     <a href="https://medium.com/@emrekayik" target="_blank">
       <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
     </a>
+  <br>
+  <a href="https://www.buymeacoffee.com/emrekayik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </details>
 <pre align="center">
   On the shoulders of giants
