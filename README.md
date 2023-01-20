@@ -35,8 +35,9 @@
       <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
     </a>
   <br>
-  <a href="https://www.buymeacoffee.com/emrekayik" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="emrekayik" data-color="#FF5F5F" data-emoji=""  data-font="Cookie" data-text="Buy me tea(maybe coffee)" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+  <a href="https://www.buymeacoffee.com/emrekayik" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 24px !important;width: 86.8px !important;" >
+  </a>
 </details>
 <pre align="center">
   On the shoulders of giants
