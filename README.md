@@ -45,7 +45,7 @@
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="60%" />
 
 <div>
-    <h2><img src="https://img.shields.io/badge/my%20favorite%20%E2%99%A5%EF%B8%8F-technologies-brightgreen"/></h2>
+    <h2><img src="https://img.shields.io/badge/my%20favorite%20♥%EF%B8%8F-technologies%20and%20langs-brightgreen"/></h2>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
      <br>
