@@ -45,7 +45,10 @@
 <img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="60%" />
 
 <div>
-    <h2><img src="https://img.shields.io/badge/my%20favorite%20♥%EF%B8%8F-technologies%20and%20langs-brightgreen"/></h2>
+  <details>
+    <summary>
+      <h2><img src="https://img.shields.io/badge/my%20favorite%20♥%EF%B8%8F-technologies%20and%20langs-brightgreen"/></h2>
+    </summary>
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
      <br>
@@ -89,8 +92,12 @@
     <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
     <br>
+  </details>
     <br>
+  <details>
+    <summary>
     <h2><img src="https://img.shields.io/badge/my%20favorite%20%F0%9F%96%A4-tools-blue" /></h2>
+      </summary>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
     <img src="https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=Atom&logoColor=white" />
     <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" />
@@ -109,6 +116,7 @@
     <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=SketchUp&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+  </details>
 </div>
 
 ### Spotify
