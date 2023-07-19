@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
     <br>
   </details>
-    <br>
+    <hr>
   <details>
     <summary>
     <h2><img src="https://img.shields.io/badge/my%20favorite%20%F0%9F%96%A4-tools-blue" /></h2>
