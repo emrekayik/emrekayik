@@ -39,6 +39,7 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 173px !important;" >
   </a>
 </details>
+<a href="https://www.buymeacoffee.com/emrekayik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=emrekayik&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 <pre align="center">
   On the shoulders of giants
 </pre>
