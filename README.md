@@ -1,121 +1,49 @@
-<h1 align="center">Hi There, I'm Emre</h1>
-<details align="center">
-  <summary>About Me - Contact Me</summary>
-    I'm Emre and 20, I am an designer and developer.
-    <br>
-    <br>
-    <a href="https://instagram.com/emrekayik0" target="_blank">
-      <img src=https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://linkedin.com/in/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://twitter.com/emrekayik0" target="_blank">
-      <img src=https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dev.to/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://hashnode.com/@emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://codepen.com/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.kaggle.com/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://dribbble.com/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.behance.net/emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://medium.com/@emrekayik" target="_blank">
-      <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-    </a>
-  <br>
-  <a href="https://www.buymeacoffee.com/emrekayik" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 48px !important;width: 173px !important;" >
-  </a>
-</details>
-<a href="https://www.buymeacoffee.com/emrekayik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=emrekayik&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+
+![[text animation.gif]]
+
+I'm Emre and 21, I am an developer and designer.
+
+<a href="instagram.com/emrekayik0" target="_blank">
+<img src="https://img.shields.io/badge/-emrekayik0-000?&logo=instagram" alt="Follow" /></a> <a href="x.com/emrekayik0"><img src="https://img.shields.io/badge/-emrekayik0-000?&logo=x" alt="Follow" /></a> <a href="https://linkedin.com/in/emrekayik"><img src="https://img.shields.io/badge/-Emre Kayık-000?&logo=linkedin" alt="Follow" /></a> <a href="https://medium.com/@emrekayik" target="_blank"><img src="https://img.shields.io/badge/medium-000?&logo=medium" /></a> <a href="https://codepen.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/codepen-000?&logo=codepen" alt="codepen" /></a> <a href="https://www.kaggle.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/kaggle-000?logo=kaggle" alt=kaggle/></a> <a href="https://www.behance.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/Behance-000?logo=behance" alt="behance"/></a>
+
+<a href="https://www.buymeacoffee.com/emrekayik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=emrekayik&button_colour=000&font_colour=ffffff&font_family=Cookie&outline_colour=fff&coffee_colour=FFDD00" width="150" /></a>
+
 <pre align="center">
   On the shoulders of giants
 </pre>
-<img src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" data-canonical-src="https://github.com/emrekayik/svg_files/blob/main/Ads%C4%B1z%20tasar%C4%B1m.png?raw=true" width="60%" />
 
-<div>
-  <details>
-    <summary>
-      <h2><img src="https://img.shields.io/badge/my%20favorite%20♥%EF%B8%8F-technologies%20and%20langs-brightgreen"/></h2>
-    </summary>
-    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
-     <br>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=Babel&logoColor=black" />
-    <img src="https://img.shields.io/badge/CoffeeScript-2F2625.svg?style=for-the-badge&logo=CoffeeScript&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
-    <img src="https://img.shields.io/badge/Solid-2C4F7C.svg?style=for-the-badge&logo=Solid&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white" />
-    <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" />
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-    <br>
-    <img src="https://img.shields.io/badge/Bun-000000.svg?style=for-the-badge&logo=Bun&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Deno-000000.svg?style=for-the-badge&logo=Deno&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white" />
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jekyll-3F1F1F.svg?style=for-the-badge&logo=Jekyll&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white" />
-    <img src="https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=Lua&logoColor=white" />
-    <img src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" />
-    <img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nim-FFE953.svg?style=for-the-badge&logo=Nim&logoColor=black" />
-    <img src="https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=Zig&logoColor=white" />
-    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" />
-    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black" />
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
-    <br>
-  </details>
-    <hr>
-  <details>
-    <summary>
-    <h2><img src="https://img.shields.io/badge/my%20favorite%20%F0%9F%96%A4-tools-blue" /></h2>
-      </summary>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=Atom&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spyder%20IDE-FF0000.svg?style=for-the-badge&logo=Spyder-IDE&logoColor=white" />
-    <img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white" />
-    <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=for-the-badge&logo=Eclipse-IDE&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white" />
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=Notepad++&logoColor=black" />
-    <br>
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/InVision-FF3366.svg?style=for-the-badge&logo=InVision&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white" />
-    <img src="https://img.shields.io/badge/SketchUp-005F9E.svg?style=for-the-badge&logo=SketchUp&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/LibreOffice-18A303.svg?style=for-the-badge&logo=LibreOffice&logoColor=white" />
-  </details>
-</div>
+### Languages
+
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" alt="Typescript" /> <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" /> <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust" alt="Rust" /> <img src="https://img.shields.io/badge/-R-000?&logo=R" alt="R" /> <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" /> <img src="https://img.shields.io/badge/-Julia-000?&logo=Julia" alt="Julia" /> <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="Go" /> <img src="https://img.shields.io/badge/-Nim-000?&logo=Nim" alt="Nim" /> <img src="https://img.shields.io/badge/-Zig-000?&logo=Zig" alt="Zig" /> <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart" /> <img src="https://img.shields.io/badge/-Ruby-000?&logo=Ruby" alt="Ruby" /> <img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C" /> <img src="https://img.shields.io/badge/-C++-000?&logo=C%2B%2B" alt="C++" />
+
+---
+### Frameworks and Libraries
+
+<img src="https://img.shields.io/badge/-Next.js-000?&logo=Next.js" alt="Next.js" /> <img src="https://img.shields.io/badge/-React-000?&logo=React" alt="React" /> <img src="https://img.shields.io/badge/-Svelte-000?&logo=Svelte" alt="Svelte" /> <img src="https://img.shields.io/badge/-Electron-000?&logo=Electron" alt="Electron" /> <img src="https://img.shields.io/badge/-Expo-000?&logo=Expo" alt="Expo" /> <img src="https://img.shields.io/badge/-Tailwindcss-000?&logo=Tailwindcss" alt="Tailwindcss" /> <img src="https://img.shields.io/badge/-Shadcn/ui-000?&logo=Shadcnui" alt="Shadcn" /> <img src="https://img.shields.io/badge/-daisyUI-000?&logo=Daisyui" alt="daisyUI" /> <img src="https://img.shields.io/badge/-Numpy-000?&logo=Numpy" alt="Numpy" /> <img src="https://img.shields.io/badge/-Pandas-000?&logo=Pandas" alt="Pandas" /> <img src="https://img.shields.io/badge/-Plotly-000?&logo=Plotly" alt="Plotly" /> <img src="https://img.shields.io/badge/scikit--learn-000?&logo=Scikitlearn" alt="scikit-learn" /> <img src="https://img.shields.io/badge/-Flask-000?&logo=Flask" alt="Flask" /> <img src="https://img.shields.io/badge/-Django-000?&logo=Django" alt="Django" /> <img src="https://img.shields.io/badge/-Qt-000?&logo=Qt" alt="Qt" /> <img src="https://img.shields.io/badge/-RubyOnRails-000?&logo=RubyOnRails" alt="RubyOnRails" /> <img src="https://img.shields.io/badge/-Jekyll-000?&logo=Jekyll" alt="Jekyll" />
+
+---
+### Development Tools
+
+<img src="https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode" alt="VSCode" /> <img src="https://img.shields.io/badge/-Android%20Studio-000?&logo=AndroidStudio" alt="Android Studio" /> <img src="https://img.shields.io/badge/-Visual%20Studio-000?&logo=VisualStudio" alt="Visual Studio" /> <img src="https://img.shields.io/badge/-WebStorm-000?&logo=WebStorm" alt="WebStorm" /> <img src="https://img.shields.io/badge/-Code::Blocks-000?&logo=CodeBlocks" alt="Code::Blocks" /><img src="https://img.shields.io/badge/-RStudio-000?&logo=rstudioide" alt="RStudio" /><img src="https://img.shields.io/badge/-Docker-000?&logo=Docker" alt="Docker" /><img src="https://img.shields.io/badge/-GodotEngine-000?&logo=godotengine" alt="godotengine" />
+
+---
+### Design Tools
+
+<img src="https://img.shields.io/badge/-Figma-000?&logo=Figma" alt="Figma" /> <img src="https://img.shields.io/badge/-Illustrator-000?&logo=AdobeIllustrator" alt="Illustrator" /> <img src="https://img.shields.io/badge/-Inkscape-000?&logo=Inkscape" alt="Inkscape" /> <img src="https://img.shields.io/badge/-Blender-000?&logo=Blender" alt="Blender" /> <img src="https://img.shields.io/badge/-Spline-000?&logo=Spline" alt="Spline" />
+
+---
+### Projects
+
+[![](https://img.shields.io/badge/my%20website-000)](https://github.com/emrekayik/site)
+[![](https://img.shields.io/badge/hoplist-000)](https://github.com/emrekayik/joplist)
+[![](https://img.shields.io/badge/sihirek-000)](https://github.com/emrekayik/sihirek-mobile)
+[![](https://img.shields.io/badge/lugat-000)](https://github.com/emrekayik/lugat)
+[![](https://img.shields.io/badge/huek-000)](https://github.com/emrekayik/huek)
+[![](https://img.shields.io/badge/ekos-000)](https://github.com/emrekayik/ekos)
+[![](https://img.shields.io/badge/artistic-000)](https://github.com/studioek/artistic)<img alt="Gem Total Downloads" src="https://img.shields.io/gem/dt/artistic?logo=rubygems&color=000&labelColor=000">
+
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=emrekayik&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=transparent" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekayik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
+
+<a href="https://wakatime.com/@944583f1-806f-4eab-9599-0d36baa1fa4d"><img src="https://wakatime.com/badge/user/944583f1-806f-4eab-9599-0d36baa1fa4d.svg?style=flat-square&color=000&labelColor=000" alt="wakatime" /></a>
+
