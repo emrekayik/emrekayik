@@ -1,5 +1,6 @@
-
-![[text animation.gif]]
+<pre align="center">
+<img src="./text_animation.gif" />
+</pre>
 
 I'm Emre and 21, I am an developer and designer.
 
