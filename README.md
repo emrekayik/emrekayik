@@ -2,12 +2,19 @@
 <img src="./text_animation.gif" />
 </pre>
 
-I'm Emre and 21, I am an developer and designer.
+Hello! I'm Emre, I am an developer and designer.
 
-<a href="instagram.com/emrekayik0" target="_blank">
-<img src="https://img.shields.io/badge/-emrekayik0-000?&logo=instagram" alt="Follow" /></a> <a href="x.com/emrekayik0"><img src="https://img.shields.io/badge/-emrekayik0-000?&logo=x" alt="Follow" /></a> <a href="https://linkedin.com/in/emrekayik"><img src="https://img.shields.io/badge/-Emre Kayık-000?&logo=linkedin" alt="Follow" /></a> <a href="https://medium.com/@emrekayik" target="_blank"><img src="https://img.shields.io/badge/medium-000?&logo=medium" /></a> <a href="https://codepen.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/codepen-000?&logo=codepen" alt="codepen" /></a> <a href="https://www.kaggle.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/kaggle-000?logo=kaggle" alt=kaggle/></a> <a href="https://www.behance.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/Behance-000?logo=behance" alt="behance"/></a>
+<a href="instagram.com/emrekayik0" target="_blank"><img src="https://img.shields.io/badge/-emrekayik0-000?&logo=instagram" alt="Follow" /></a> 
+<a href="x.com/emrekayik0"><img src="https://img.shields.io/badge/-emrekayik0-000?&logo=x" alt="Follow" /></a> 
+<a href="https://linkedin.com/in/emrekayik"><img src="https://img.shields.io/badge/-Emre Kayık-000?&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiBpbWFnZS1yZW5kZXJpbmc9Im9wdGltaXplUXVhbGl0eSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNDc0LjkxOSAwSDM4LjU5MkMxNy43MiAwIDAgMTYuNTA0IDAgMzYuODQxVjQ3NS4xNEMwIDQ5NS40OTYgMTEuNjI5IDUxMiAzMi40OTIgNTEyaDQzNi4zMjdDNDg5LjcxOCA1MTIgNTEyIDQ5NS40OTYgNTEyIDQ3NS4xNFYzNi44NDFDNTEyIDE2LjUwNCA0OTUuODA5IDAgNDc0LjkxOSAwek0xOTUuMDQzIDE5NS4wNDNoNjguOTI4djM1LjEzNmguNzU1YzEwLjUwNS0xOC45NDUgNDEuNTQxLTM4LjE3NyA3OS45MjEtMzguMTc3IDczLjY1NSAwIDk0LjIxNCAzOS4xMDggOTQuMjE0IDExMS41Mzh2MTM1LjMyMWgtNzMuMTQ4VjMxNi44ODNjMC0zMi40MjctMTIuOTQ3LTYwLjg4My00My4yMjctNjAuODgzLTM2Ljc2OCAwLTU0LjI5NSAyNC44ODktNTQuMjk1IDY1Ljc1OHYxMTcuMTAzaC03My4xNDhWMTk1LjA0M3pNNzMuMTM5IDQzOC44NjFoNzMuMTQ4VjE5NS4wNDNINzMuMTM5djI0My44MTh6bTgyLjI4OS0zMjkuMTQ4YzAgMjUuMjU4LTIwLjQ1NyA0NS43MTUtNDUuNzE1IDQ1LjcxNS0yNS4yNTggMC00NS43MTUtMjAuNDU3LTQ1LjcxNS00NS43MTUgMC0yNS4yNTggMjAuNDU3LTQ1LjcxNSA0NS43MTUtNDUuNzE1IDI1LjI1OCAwIDQ1LjcxNSAyMC40NTcgNDUuNzE1IDQ1LjcxNXoiLz48L3N2Zz4=" alt="Follow" /></a> 
+<a href="https://medium.com/@emrekayik" target="_blank"><img src="https://img.shields.io/badge/medium-000?&logo=medium" /></a> 
+<a href="https://codepen.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/codepen-000?&logo=codepen" alt="codepen" /></a> 
+<a href="https://www.kaggle.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/kaggle-000?logo=kaggle" alt=kaggle/></a> 
+<a href="https://www.behance.com/emrekayik" target="_blank"><img src="https://img.shields.io/badge/Behance-000?logo=behance" alt="behance"/></a>
 
+<!--
 <a href="https://www.buymeacoffee.com/emrekayik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=emrekayik&button_colour=000&font_colour=ffffff&font_family=Cookie&outline_colour=fff&coffee_colour=FFDD00" width="150" /></a>
+-->
 
 <pre align="center">
   On the shoulders of giants
@@ -15,7 +22,14 @@ I'm Emre and 21, I am an developer and designer.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" alt="Typescript" /> <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" /> <img src="https://img.shields.io/badge/-Rust-000?&logo=Rust" alt="Rust" /> <img src="https://img.shields.io/badge/-R-000?&logo=R" alt="R" /> <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" /> <img src="https://img.shields.io/badge/-Julia-000?&logo=Julia" alt="Julia" /> <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="Go" /> <img src="https://img.shields.io/badge/-Nim-000?&logo=Nim" alt="Nim" /> <img src="https://img.shields.io/badge/-Zig-000?&logo=Zig" alt="Zig" /> <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart" /> <img src="https://img.shields.io/badge/-Ruby-000?&logo=Ruby" alt="Ruby" /> <img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C" /> <img src="https://img.shields.io/badge/-C++-000?&logo=C%2B%2B" alt="C++" />
+#### Most Used
+
+<img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" alt="JavaScript" /> <img src="https://img.shields.io/badge/-Typescript-000?&logo=Typescript" alt="Typescript" /> <img src="https://img.shields.io/badge/-Node.js-000?&logo=Node.js" alt="Node.js" /> <img src="https://img.shields.io/badge/-Python-000?&logo=Python" alt="Python" /> <img src="https://img.shields.io/badge/-R-000?&logo=R" alt="R" /> <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart" alt="Dart" /> 
+
+#### Interest
+
+<img src="https://img.shields.io/badge/-Rust-000?&logo=Rust" alt="Rust" /> <img src="https://img.shields.io/badge/-Go-000?&logo=Go" alt="Go" /> <img src="https://img.shields.io/badge/-Lua-000?&logo=Lua" alt="Lua" /> <img src="https://img.shields.io/badge/-Julia-000?&logo=Julia" alt="Julia" /> <img src="https://img.shields.io/badge/-Nim-000?&logo=Nim" alt="Nim" /> <img src="https://img.shields.io/badge/-Zig-000?&logo=Zig" alt="Zig" /> <img src="https://img.shields.io/badge/-C-000?&logo=C" alt="C" /> <img src="https://img.shields.io/badge/-C++-000?&logo=C%2B%2B" alt="C++" /> <img src="https://img.shields.io/badge/-Ruby-000?&logo=Ruby" alt="Ruby" /> 
+
 
 ---
 ### Frameworks and Libraries
@@ -41,7 +55,8 @@ I'm Emre and 21, I am an developer and designer.
 [![](https://img.shields.io/badge/lugat-000)](https://github.com/emrekayik/lugat)
 [![](https://img.shields.io/badge/huek-000)](https://github.com/emrekayik/huek)
 [![](https://img.shields.io/badge/ekos-000)](https://github.com/emrekayik/ekos)
-[![](https://img.shields.io/badge/artistic-000)](https://github.com/studioek/artistic)<img alt="Gem Total Downloads" src="https://img.shields.io/gem/dt/artistic?logo=rubygems&color=000&labelColor=000">
+[![](https://img.shields.io/badge/artistic-000)](https://github.com/studioek/artistic)
+[![](https://img.shields.io/gem/dt/artistic?logo=rubygems&color=000&labelColor=000)](https://rubygems.org/gems/artistic)
 
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=emrekayik&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=transparent" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekayik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
