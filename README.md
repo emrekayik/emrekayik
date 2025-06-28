@@ -64,7 +64,7 @@ Hello! I'm Emre, I am an developer and designer.
 <a href="https://wakatime.com/@944583f1-806f-4eab-9599-0d36baa1fa4d"><img src="https://wakatime.com/badge/user/944583f1-806f-4eab-9599-0d36baa1fa4d.svg?style=flat-square&color=000&labelColor=000" alt="wakatime" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-269%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%208%20mins-blue)
 
 **🐱 GitHub Verilerim** 
 
@@ -144,5 +144,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/emrekayik/emrekayik/main/assets/bar_graph.png)
 
 
- Last Updated on 28/06/2025 15:58:57 UTC
+ Last Updated on 28/06/2025 18:48:14 UTC
 <!--END_SECTION:waka-->
