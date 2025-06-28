@@ -63,3 +63,5 @@ Hello! I'm Emre, I am an developer and designer.
 
 <a href="https://wakatime.com/@944583f1-806f-4eab-9599-0d36baa1fa4d"><img src="https://wakatime.com/badge/user/944583f1-806f-4eab-9599-0d36baa1fa4d.svg?style=flat-square&color=000&labelColor=000" alt="wakatime" /></a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
