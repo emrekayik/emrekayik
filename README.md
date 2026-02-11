@@ -51,14 +51,10 @@ Hello! I'm Emre, I am an developer and designer.
 
 [![](https://img.shields.io/badge/my%20website-000)](https://github.com/emrekayik/site)
 [![](https://img.shields.io/badge/hoplist-000)](https://github.com/emrekayik/hoplist)
+[![](https://img.shields.io/badge/moviek-000)](https://github.com/emrekayik/moviek)
 [![](https://img.shields.io/badge/sihirek-000)](https://github.com/emrekayik/sihirek-mobile)
 [![](https://img.shields.io/badge/lugat-000)](https://github.com/emrekayik/lugat)
 [![](https://img.shields.io/badge/huek-000)](https://github.com/emrekayik/huek)
 [![](https://img.shields.io/badge/ekos-000)](https://github.com/emrekayik/ekos)
 [![](https://img.shields.io/badge/artistic-000)](https://github.com/studioek/artistic)
 [![](https://img.shields.io/gem/dt/artistic?logo=rubygems&color=000&labelColor=000)](https://rubygems.org/gems/artistic)
-
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=emrekayik&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=transparent" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekayik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8" />
-
-<a href="https://wakatime.com/@944583f1-806f-4eab-9599-0d36baa1fa4d"><img src="https://wakatime.com/badge/user/944583f1-806f-4eab-9599-0d36baa1fa4d.svg?style=flat-square&color=000&labelColor=000" alt="wakatime" /></a>
