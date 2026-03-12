@@ -49,6 +49,7 @@ Hello! I'm Emre, I am an developer and designer.
 ---
 ### Projects
 
+[![](https://img.shields.io/badge/nootle-000)](https://github.com/emrekayik/nootle)
 [![](https://img.shields.io/badge/my%20website-000)](https://github.com/emrekayik/site)
 [![](https://img.shields.io/badge/hoplist-000)](https://github.com/emrekayik/hoplist)
 [![](https://img.shields.io/badge/moviek-000)](https://github.com/emrekayik/moviek)
